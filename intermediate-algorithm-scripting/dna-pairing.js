@@ -13,4 +13,4 @@ function pairElement(str) {
 }
 
 pairElement("GCG");
-// Returns [ ['G', 'C'], ['C', 'G'], ['G', 'C']]
+// Returns [ ['G', 'C'], ['C', 'G'], ['G', 'C'] ]
