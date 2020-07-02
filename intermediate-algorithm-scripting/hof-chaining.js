@@ -14,3 +14,5 @@ function getRating(watchList) {
 
     return averageRating;
 }
+
+// To be used with an array of objects containing properties with details about each movie
