@@ -12,3 +12,6 @@ function smallestCommons(arr) {
     
     return common;
   }
+
+smallestCommons([3, 4])
+// Prints 12 (smallest number that can be evenly divided by both three and four)
