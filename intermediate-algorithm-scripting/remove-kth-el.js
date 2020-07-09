@@ -3,6 +3,7 @@ function extractEachKth(arr, k) {
     k--;
 
     for (let i = k; i < arr.length; i += k) {
+        // Increment by k to remove each kth element
         arr.slice(i, 1);
     }
 
