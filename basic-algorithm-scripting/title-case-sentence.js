@@ -1,3 +1,5 @@
+// Goal is to uppercase the first letter then keep the other characters lowercase (stuff like this = always easier after splitting to array)
+
 function titleCase(str) {
     let newStr = [];
     str = str.split(' ');

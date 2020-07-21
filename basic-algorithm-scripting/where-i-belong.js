@@ -1,3 +1,5 @@
+// First, sort the array; second, use a loop to find where the number should go
+
 function getIndexToIns(arr, num) {
     let sorted = arr.sort((a, b) => a - b);
 

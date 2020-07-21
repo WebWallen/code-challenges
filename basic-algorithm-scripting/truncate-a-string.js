@@ -1,3 +1,5 @@
+// Stop the string at index num and add "..." onto the end
+
 function truncateString(str, num) {
     let result = [];
   
