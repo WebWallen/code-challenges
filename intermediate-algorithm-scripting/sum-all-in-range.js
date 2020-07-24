@@ -1,5 +1,4 @@
 function sumAll(arr) {
-    let sum = 0;
     let range = [];
   
     if (arr[0] < arr[1]) {
