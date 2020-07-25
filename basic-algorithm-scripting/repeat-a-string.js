@@ -1,3 +1,4 @@
+// Repeat the string (no spaces between) as many times as specified
 function repeatStringNumTimes(str, num) {
     let repeats = [];
     let i = 0;

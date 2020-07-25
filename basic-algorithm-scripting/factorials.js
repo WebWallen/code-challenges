@@ -1,3 +1,4 @@
+// Find the factorial of the provided number (i.e. multiply every number from 1 to input)
 function factorialize(num) {
     let factors = [];
   

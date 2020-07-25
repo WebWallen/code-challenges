@@ -1,3 +1,4 @@
+// Split the array into subarrays of the size specified
 function chunkArrayInGroups(arr, size) {
     let newArr = [];
   
