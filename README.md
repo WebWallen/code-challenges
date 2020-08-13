@@ -5,7 +5,7 @@ To be honest, this exists for the sole purpose of keeping GitHub green as I'm wo
 
 So if you want to see what I'm *actually* building (and/or are a fan of dogs and cats, of which there are MANY adorable pictures), visit:
 
----> https://www.tripets.org
+---> https://www.tripets.org (5,000+ visitors / 30+ adoptions and counting!)
 
 Update 07/12/20
 
